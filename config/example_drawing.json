@@ -1,0 +1,43 @@
+{
+  "width": 1280,
+  "height": 720,
+  "lines": [
+    {
+      "id": "line_1",
+      "start": [100, 400],
+      "end": [600, 400],
+      "name": "Entrance Line",
+      "color": [0, 255, 255],
+      "thickness": 3,
+      "direction": "both"
+    },
+    {
+      "id": "line_2",
+      "start": [700, 200],
+      "end": [1200, 200],
+      "name": "Exit Line",
+      "color": [255, 165, 0],
+      "thickness": 3,
+      "direction": "both"
+    }
+  ],
+  "polygons": [
+    {
+      "id": "zone_1",
+      "points": [[50, 50], [300, 50], [300, 250], [50, 250]],
+      "name": "Restricted Zone",
+      "color": [255, 0, 255],
+      "thickness": 2,
+      "fill_alpha": 0.3
+    },
+    {
+      "id": "zone_2",
+      "points": [[800, 400], [1200, 400], [1200, 650], [800, 650]],
+      "name": "Counting Zone",
+      "color": [0, 255, 0],
+      "thickness": 2,
+      "fill_alpha": 0.3
+    }
+  ]
+}
+

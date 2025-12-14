@@ -1,0 +1,14 @@
+# Object Detection & Counting Application
+# ========================================
+
+# Core ML
+ultralytics>=8.0.0      # YOLO models
+opencv-python>=4.8.0    # Video processing
+numpy>=1.24.0           # Array operations
+
+# UI Framework
+PyQt6>=6.0.0            # Desktop UI
+
+# Additional
+supervision>=0.16.0     # Detection utilities
+Pillow>=10.0.0          # Image processing

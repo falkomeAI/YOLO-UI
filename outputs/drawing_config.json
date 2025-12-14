@@ -1,0 +1,56 @@
+{
+  "width": 768,
+  "height": 432,
+  "lines": [
+    {
+      "id": "line_1",
+      "start": [
+        130,
+        167
+      ],
+      "end": [
+        541,
+        161
+      ],
+      "name": "Line 1",
+      "color": [
+        255,
+        165,
+        0
+      ],
+      "thickness": 3,
+      "direction": "both"
+    }
+  ],
+  "polygons": [
+    {
+      "id": "zone_1",
+      "points": [
+        [
+          98,
+          15
+        ],
+        [
+          589,
+          34
+        ],
+        [
+          591,
+          409
+        ],
+        [
+          114,
+          414
+        ]
+      ],
+      "name": "Zone 1",
+      "color": [
+        255,
+        0,
+        255
+      ],
+      "thickness": 2,
+      "fill_alpha": 0.3
+    }
+  ]
+}
