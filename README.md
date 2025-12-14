@@ -2,6 +2,11 @@
 
 A professional desktop application for real-time object detection and counting using YOLO models.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/falkomeAI/YOLO-UI/main/outputs/v1.gif" alt="YOLO UI Demo" width="800">
+</p>
+
+
 ## Features
 
 - **Object Detection**: Uses YOLOv8 models for accurate object detection
