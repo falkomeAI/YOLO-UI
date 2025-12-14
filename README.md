@@ -2,14 +2,10 @@
 
 A professional desktop application for real-time object detection and counting using YOLO models.
 
-## 🎥 Demo Video
+<p align="center">
+  <img src="https://github.com/falkomeAI/YOLO-UI/blob/main/outputs/v1.gif" width="700"/>
+</p>
 
-<video src="https://raw.githubusercontent.com/falkomeAI/YOLO-UI/main/outputs/v1.mp4"
-       controls
-       width="800">
-</video>
-
-🔗 [Direct video link](https://github.com/falkomeAI/YOLO-UI/blob/main/outputs/v1.mp4)
 
 
 
